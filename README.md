@@ -6,7 +6,7 @@
     
     <link rel=stylesheet href='./styles.css' />
 
-       <div>
+    <div>
         <style type="text/css">
           body {background-color: black;}    
     h1 {color: greenyellow;} 
@@ -19,7 +19,9 @@
             <meta name="viewport" content="width=device-width">
     <title>Ryan's Website</title>
            </head>
-       </div>
+       
+    </div>
+   
     <hr>    
   
   <body>
