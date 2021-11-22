@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html language="en">
+    <head>
+  <meta charset="utf-8">
+  <meta 
+    name="viewport" content="width=device-width"
+  >
+  
+  <link rel=stylesheet href="./styles.css" />
+  <h1>This is Ryan's awesome website!</h1>
+       <div>
+        <style type="text/css">
+          body {background-color: black;}
+    
+          <style type="text/css">            
+          h1 {color: greenyellow;}
+                    </style>           
+    
+                    <style type="text/css">            
+                    h2 {color: greenyellow;}
+                              </style>                   
+    </head>
+       </div>
+    
+    <hr>    
+  
+    <body>
+       <div>
+             <div align="center">
+            <style type="text/css">           
+    h2 {color: greenyellow;}
+            </style>            
+        
+              <style type="text/css">            
+        h3 {color: greenyellow;}
+              </style>
+              
+                <style type="text/css">              
+            h4 {color: greenyellow;}
+                </style>
+                            
+                <style type="text/css">
+                    body {
+                      background-color: black;}
+    ul {color: red;}
+                  </style>
+               
+            <div align="center">
+                <h1>Ryan Paez</h1>
+                <h2>Software Developer</h2>
+              
+                <hr>
+    <h3>About Me:</h3>
+                    <h4>My hometown is Los Angeles.</h4>
+                    <h4>My favorite color is Black.</h4>
+                    <h4>My favorite food is Sushi.</h4>
+                    <h4>If I could be any animal, I would be A Eagle.</h4>
+       </div>           
+       <div>
+                    <img
+                    src="https://i.pinimg.com/originals/c3/17/9f/c3179f0ac8518d40579eeeedb745cf1d.jpg"
+                    alt="Wheelie">
+       </div>             
+    
+    <hr>        
+            
+            <div align="left">    
+    <ul>
+          <li>I love to ride my motorcycle</li>
+          <li>I love my family</li>
+          <li>I love to stay busy</li></ul>
+          
+            <div align="center">              
+            <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit">Go to my LinkedIn</a>
+       </div>
+    </body>
+        </html>
+
+      
