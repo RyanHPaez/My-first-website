@@ -1,4 +1,4 @@
-<html language="en">
+<!DOCTYPE html><html language="en">
   <head>
     
     <h1>This is Ryan's awesome website!</h1>
@@ -16,9 +16,9 @@
             
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width">
-    <title>Ryan's Website</title>
+      <title>Ryan's Website</title></head>
           
-      </head>    
+        
        
     </div>
    
